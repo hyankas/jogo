@@ -1,6 +1,6 @@
   O  |   | x
 ---------------
-    | x  | 
+   x | x  | 
 ---------------
   O  |   |  O
 
@@ -9,3 +9,4 @@
 
 
   Ganhei de novo :)
+  tudo bem, tudo bem kkkkk
