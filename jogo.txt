@@ -1,12 +1,5 @@
-  O  |   | x
+    |   | 
 ---------------
-   x | x  | 
+    |   | 
 ---------------
-  O  | O  |  O
-
-
-
-
-
-  Ganhei de novo :)
-  tudo bem, tudo bem kkkkk
+    |   |  
